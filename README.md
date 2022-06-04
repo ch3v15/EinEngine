@@ -1,5 +1,5 @@
 # EinEngine
-A simple three-dimensional library not based on OpenGL or DirectX.  Only mathematics to understand the process. The library helps to implement the graphic part SFML and no more.
+A simple three-dimensional library not based on OpenGL or DirectX.  Only mathematics to understand the process. The library helps to implement the graphic part SFML (or GDK+/but now not supported) and no more.
 
 ## Terrain with PerlinNoise generation
 ![image](https://user-images.githubusercontent.com/106626493/172015953-0a654839-af42-43da-ade7-6cb66b5cbfc2.png)
